@@ -14,6 +14,12 @@ public class Starter {
 		
 		int secondNum = scanner.nextInt();
 		
+		int sum = firstNum + secondNum;
+		
+		System.out.println("The sum of the integers you entered is: "+sum);
+		
+		System.out.println("Now exiting!");
+		
 		
 	}
 	
